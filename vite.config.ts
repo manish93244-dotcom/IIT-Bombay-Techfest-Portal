@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/IIT-BOMBAY-Techfest-Portal/',
+    base: '/IIT-Bombay-Techfest-Portal/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
