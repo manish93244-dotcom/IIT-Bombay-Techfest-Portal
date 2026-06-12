@@ -1,0 +1,6 @@
+{
+  "name": "IIT Bombay Techfest Portal",
+  "description": "An interactive, responsive 3D single-page website for IIT Bombay's Techfest, featuring a beautiful 3D particle constellation and rotating geometric wireframe globe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
